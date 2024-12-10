@@ -16,5 +16,6 @@ Run the program using the command:
 java NameSort
 
 Expected Output (screenshots)
-![image](https://github.com/user-attachments/assets/db463470-72d5-4e1b-bf3f-474bb1768509)
+![WhatsApp Image 2024-12-10 at 15 26 39_efd0a9b6](https://github.com/user-attachments/assets/a782e501-282c-42b5-907e-1c3e0c878d08)
+
 
